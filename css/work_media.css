@@ -1,0 +1,65 @@
+/* 태블릿 */
+@media screen and (max-width:1200px){
+  .list_wrap {margin: 65px 0; padding-top: 80px;}
+  .list_whole .con_wrap .con a {width: 50%;}
+
+  .detail_main .detail_tit {padding: 0 20px; text-align: center;}
+  .detail_main .detail_txt {margin: 100px 0 80px;}
+  .detail_main .em {margin-bottom: 40px;}
+  .image-area {display: none;}
+
+  .detail_txt .make {padding: 0; display: inline-block; width: 100%;}
+  .detail_txt .make li {margin-bottom: 14px;}
+
+  .detail_con .con_box .box {padding: 0 10px;}
+  /* .detail_txt .make li {display: inline-block; width: 100%;} */
+  /* .detail_txt .make li .left, .detail_txt .make li .right {width: 100%;} */
+
+  .detail_con .con_box .box img.link {right: 30px;}
+}
+
+/* 모바일 */
+@media screen and (max-width:767px){
+  .list_wrap {padding-top: 50px;}
+  .list_whole .work_icon {width: 24px;}
+  .list_whole h2 {font-size: 26px;}
+  .list_whole p {font-size: 14px; line-height: 20px;}
+  .list_whole .tap_wrap {margin: 80px 0;}
+
+  .list_whole .con_wrap .con a {width: 100%;}
+  .list_whole .con_wrap .con div.bg {opacity: 1; padding: 30px;     background-color: rgba(255, 255, 255, 0.4);}
+  .list_whole .con_wrap .con div.bg span {margin-bottom: 40px;}
+  .list_whole .con_wrap .con div.bg .tit {font-size: 20px;}
+
+  .detail_main .detail_tit {text-align: left;}
+  .detail_main .detail_tit p {font-size: 26px;}
+  .detail_main .detail_tit span {line-height: 20px;}
+
+
+  .detail_main .detail_txt {margin: 80px 0;}
+  .detail_main .em {font-size: 18px; margin-bottom: 30px;}
+  .detail_main .em img {width: 16px;}
+
+  .detail_txt .make li {display: inline-block; width: 100%; margin-bottom: 20px;}
+  .detail_txt .make li > div {width: 100% !important;}
+  .detail_txt .make li .left {margin-bottom: 10px; font-size: 14px;}
+  .detail_txt .make li .right p {margin-bottom: 8px; line-height: 20px;}
+
+  .detail_con .con_box {display: inline-block;}
+  .detail_con .con_box .box {width: 100%; padding: 0; display: inline-block;}
+  .detail_con .con_box .box span {line-height: 20px;}
+
+  .detail_con .con_box .box img.link {right: 20px;}
+
+  .detail_con .con_3  a.box {margin-bottom: 20px;}
+
+
+
+  .move_page {bottom: 20px;}
+  .move_page .tap {display: flex;}
+  .move_page .tap a {font-size: 12px; width: 150px;}
+
+  .move_page .menu_show {width: 100%;}
+  .move_page .menu_show .menu_inner li a {font-size: 14px; padding: 12px 5px;}
+
+}

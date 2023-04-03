@@ -1,0 +1,10 @@
+<svg id="그룹_3" data-name="그룹 3" xmlns="http://www.w3.org/2000/svg" width="109" height="70.064" viewBox="0 0 109 70.064">
+  <g id="그룹_1" data-name="그룹 1" transform="translate(57.545)">
+    <ellipse id="타원_1" data-name="타원 1" cx="25.5" cy="26" rx="25.5" ry="26" transform="translate(0.455)" fill="#191919"/>
+    <path id="패스_1" data-name="패스 1" d="M962.7,788.2s-2,11.169,8.509,21.887c-5.573-1-29.184-10.44-39.095-33.582C951.6,781.751,962.7,788.2,962.7,788.2Z" transform="translate(-929.847 -740.021)" fill="#191919"/>
+  </g>
+  <g id="그룹_2" data-name="그룹 2">
+    <circle id="타원_1-2" data-name="타원 1" cx="26" cy="26" r="26" fill="#191919"/>
+    <path id="패스_1-2" data-name="패스 1" d="M962.7,788.2s-2,11.169,8.509,21.887c-5.573-1-29.184-10.44-39.095-33.582C951.6,781.751,962.7,788.2,962.7,788.2Z" transform="translate(-929.847 -740.021)" fill="#191919"/>
+  </g>
+</svg>

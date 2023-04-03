@@ -1,0 +1,32 @@
+/* 태블릿 */
+@media screen and (max-width:1200px){
+  .about_wrap .inner {overflow: auto;}
+  .about_wrap .inner > div {width: 100%;}
+  .about_wrap .right {display: none;}
+}
+
+
+/* 모바일 */
+@media screen and (max-width:767px){
+  .about_wrap .inner {padding-top: 65px;}
+  .about_wrap .inner > div {padding: 0 20px; margin-top: 30px; margin-bottom: 30px;}
+  .about_wrap .left .point {margin: 0 0 20px;}
+
+  .about_wrap .left .tit_wrap {line-height: 45px; margin-bottom: 60px;}
+  .about_wrap .left .tit_wrap p {font-size: 35px;}
+
+  .about_wrap .introduce {padding-bottom: 30px; margin-bottom: 80px;}
+  .about_wrap .introduce div {padding: 15px;}
+  .about_wrap .introduce div > p {line-height: 22px;}
+
+  .about_wrap .article {margin-bottom: 80px;}
+  .about_wrap .article .tit {margin-bottom: 20px;}
+  .about_wrap .article ul li {line-height: 24px;}
+  .about_wrap .article ul li p {width: 100%; font-size: 14px;}
+  .about_wrap .article ul.sub {margin-top: 0;}
+  .about_wrap .article ul.sub li {margin: 0; font-size: 12px; line-height: 20px;}
+  .about_wrap .article ul li::before {width: 3px; height: 3px;}
+
+  .about_wrap .article .my_info li span {font-size: 12px;}
+  .about_wrap .article .my_info li a {font-size: 12px;}
+}
